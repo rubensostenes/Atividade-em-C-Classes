@@ -1,0 +1,60 @@
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\refint\ATV_C#_METODOS.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\ATV_C#_METODOS\obj\Debug\net6.0\ref\ATV_C#_METODOS.dll
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.exe
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.deps.json
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.runtimeconfig.json
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\refint\ATV_C#_METODOS.dll
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Documentos\ATV_C#_METODOS\obj\Debug\net6.0\ref\ATV_C#_METODOS.dll
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.exe
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.deps.json
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.runtimeconfig.json
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.AssemblyReference.cache
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfoInputs.cache
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfo.cs
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.CoreCompileInputs.cache
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\refint\ATV_C#_METODOS.dll
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.genruntimeconfig.cache
+C:\Users\lipfe\Downloads\ATV_C#_METODOS-20220912T215752Z-001\ATV_C#_METODOS\obj\Debug\net6.0\ref\ATV_C#_METODOS.dll
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.exe
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.deps.json
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.runtimeconfig.json
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\bin\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.AssemblyReference.cache
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfoInputs.cache
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.AssemblyInfo.cs
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.csproj.CoreCompileInputs.cache
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.dll
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\refint\ATV_C#_METODOS.dll
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.pdb
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ATV_C#_METODOS.genruntimeconfig.cache
+C:\Users\lipfe\Desktop\ATV_C#_METODOS\obj\Debug\net6.0\ref\ATV_C#_METODOS.dll
